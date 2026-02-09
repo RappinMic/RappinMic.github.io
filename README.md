@@ -25,6 +25,7 @@
 ```js
 console.log("Hello");
 
+
 (Supported languages: `js`, `python`, `bash`, `json`, `html`, `css`, etc.)
 
 ---
@@ -43,6 +44,7 @@ console.log("Hello");
 - [ ] Task pending
 
 ---
+
 
 :rocket: :bug: :sparkles: :fire:
 
