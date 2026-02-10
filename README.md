@@ -1,56 +1,51 @@
-# H1
-## H2
-### H3
-#### H4
+# 🛒 Project Name
 
-**Bold**
-*Italic*
-***Bold & Italic***
-~~Strikethrough~~
-`Inline code`
+A modern web application that allows users to browse images, leave comments, and purchase products seamlessly.
 
-- Item
-- Item
-  - Subitem
- 
-  - 1. First
-2. Second
-3. Third
+## 🚀 Features
 
-4. [Link text](https://github.com)
-
-![Alt text](image.png)
-
-`console.log("Hello");`
-```js
-console.log("Hello");
-
-
-(Supported languages: `js`, `python`, `bash`, `json`, `html`, `css`, etc.)
+- 🖼️ Image gallery with responsive layouts  
+- 💬 User comments and reviews  
+- 🛍️ Product purchasing & checkout flow  
+- 🔐 User authentication (login / signup)  
+- 📱 Mobile-friendly design  
 
 ---
 
-## Tables
-```md
-| Name | Role | Level |
-|-----|------|-------|
-| Alex | Dev | Senior |
-| Sam | QA  | Junior |
+## 🧰 Tech Stack
 
-> This is a quote
->> Nested quote
+**Frontend**
+- HTML / CSS / JavaScript
+- Framework: React / Next.js / Vue *(update as needed)*
 
-- [x] Task done
-- [ ] Task pending
+**Backend**
+- Node.js / Express / Django / etc.
+- REST or GraphQL API
+
+**Database**
+- PostgreSQL / MongoDB / Firebase
+
+**Payments**
+- Stripe / PayPal *(or placeholder for now)*
 
 ---
 
+## 📸 Screenshots
 
-:rocket: :bug: :sparkles: :fire:
+![Homepage](screenshots/homepage.png)
+![Product Page](screenshots/product.png)
+![Checkout](screenshots/checkout.png)
 
-<details>
-<summary>Click to expand</summary>
+> Add images to a `/screenshots` folder in your repo.
 
-Hidden content here 👀
+---
 
-</details>
+## 🏗️ Project Structure
+
+```bash
+├── client/          # Frontend source code
+├── server/          # Backend API
+├── public/          # Static assets & images
+├── screenshots/     # README images
+├── .env.example     # Environment variables template
+└── README.md
