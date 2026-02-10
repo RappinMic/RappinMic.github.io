@@ -49,3 +49,20 @@ A modern web application that allows users to browse images, leave comments, and
 ├── screenshots/     # README images
 ├── .env.example     # Environment variables template
 └── README.md
+
+---
+
+git clone https://github.com/yourusername/project-name.git
+cd project-name
+
+---
+
+npm install
+
+---
+
+cp .env.example .env
+
+---
+
+npm run dev
