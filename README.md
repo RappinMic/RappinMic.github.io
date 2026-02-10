@@ -1,4 +1,4 @@
-# 🛒 Project Name
+# 🛒VISIONS IN PAINT LLC
 
 A modern web application that allows users to browse images, leave comments, and purchase products seamlessly.
 
